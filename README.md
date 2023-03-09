@@ -1,1 +1,1 @@
-https://project-costs-omega.vercel.app/projects
+https://project-costs-omega.vercel.app/
